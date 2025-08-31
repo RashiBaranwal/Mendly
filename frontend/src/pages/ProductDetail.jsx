@@ -168,7 +168,7 @@ function ProductDetail() {
           {activeTab === "description" ? (
             <p className="w-[95%] h-[90%] flex items-center justify-center">
               Upgrade your wardrobe with this stylish slim-fit cotton shirt,
-              available now on OneCart. Crafted from breathable, high-quality
+              available now on Mendly. Crafted from breathable, high-quality
               fabric, it offers all-day comfort and effortless style. Easy to
               maintain and perfect for any setting, this shirt is a must-have
               essential for those who value both fashion and function.

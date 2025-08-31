@@ -35,7 +35,7 @@ window.speechSynthesis.speak(utterence)
       
     }
      else if(transcript.toLowerCase().includes("collection") || transcript.toLowerCase().includes("collections") || transcript.toLowerCase().includes("product") || transcript.toLowerCase().includes("products")){
-      speak("opening collection page")
+      speak("opening product page")
       navigate("/collection")
     }
     else if(transcript.toLowerCase().includes("about") || transcript.toLowerCase().includes("aboutpage") ){
